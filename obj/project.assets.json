@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Leandro Estudos faculdade\\CURSO C# UDEMY em andamento\\Projetos\\Xadrez_Console\\Xadrez\\Xadrez.csproj",
-      "projectName": "Xadrez",
-      "projectPath": "F:\\Leandro Estudos faculdade\\CURSO C# UDEMY em andamento\\Projetos\\Xadrez_Console\\Xadrez\\Xadrez.csproj",
+      "projectUniqueName": "F:\\Leandro Estudos faculdade\\CURSO C# UDEMY em andamento\\Projetos\\Xadrez_Console\\Xadrez\\Xadrez-Console.csproj",
+      "projectName": "Xadrez-Console",
+      "projectPath": "F:\\Leandro Estudos faculdade\\CURSO C# UDEMY em andamento\\Projetos\\Xadrez_Console\\Xadrez\\Xadrez-Console.csproj",
       "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
       "outputPath": "F:\\Leandro Estudos faculdade\\CURSO C# UDEMY em andamento\\Projetos\\Xadrez_Console\\Xadrez\\obj\\",
       "projectStyle": "PackageReference",

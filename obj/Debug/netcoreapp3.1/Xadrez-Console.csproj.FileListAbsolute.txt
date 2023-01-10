@@ -1,0 +1,14 @@
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\bin\Debug\netcoreapp3.1\xadrez-console.exe
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\bin\Debug\netcoreapp3.1\xadrez-console.deps.json
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\bin\Debug\netcoreapp3.1\xadrez-console.runtimeconfig.json
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\bin\Debug\netcoreapp3.1\xadrez-console.runtimeconfig.dev.json
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\bin\Debug\netcoreapp3.1\xadrez-console.dll
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\bin\Debug\netcoreapp3.1\xadrez-console.pdb
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\obj\Debug\netcoreapp3.1\xadrez-console.csproj.AssemblyReference.cache
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\obj\Debug\netcoreapp3.1\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\obj\Debug\netcoreapp3.1\xadrez-console.AssemblyInfoInputs.cache
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\obj\Debug\netcoreapp3.1\xadrez-console.AssemblyInfo.cs
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\obj\Debug\netcoreapp3.1\xadrez-console.csproj.CoreCompileInputs.cache
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\obj\Debug\netcoreapp3.1\xadrez-console.dll
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\obj\Debug\netcoreapp3.1\xadrez-console.pdb
+F:\Leandro Estudos faculdade\CURSO C# UDEMY em andamento\Projetos\Xadrez_Console\Xadrez\obj\Debug\netcoreapp3.1\xadrez-console.genruntimeconfig.cache
